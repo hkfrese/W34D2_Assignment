@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-05-28T16:19:20.061535",
+    "message": "[2025-05-28 16:19:20] INFO: Now logging to JSON"
+  },
+  {
+    "timestamp": "2025-05-28T16:19:20.063046",
+    "message": "[2025-05-28 16:19:20] WARNING: API rate limit reached"
+  },
+  {
+    "timestamp": "2025-05-28T16:19:26.234675",
+    "message": "[2025-05-28 16:19:26] INFO: Now logging to JSON"
+  },
+  {
+    "timestamp": "2025-05-28T16:19:26.235677",
+    "message": "[2025-05-28 16:19:26] WARNING: API rate limit reached"
+  },
+  {
+    "timestamp": "2025-05-28T16:20:08.615372",
+    "message": "[2025-05-28 16:20:08] INFO: Now logging to JSON"
+  },
+  {
+    "timestamp": "2025-05-28T16:20:08.617381",
+    "message": "[2025-05-28 16:20:08] WARNING: API rate limit reached"
+  }
+]
